@@ -26,7 +26,7 @@ dependencies:
   convert:
   shared_preferences: ^2.2.1
   extended_image: ^8.0.0
-  get: 4.6.1
+  get: 4.6.6
   webview_flutter: 4.4.2
   webview_flutter_android: ^3.12.0
   webview_flutter_wkwebview: ^3.9.0
